@@ -1,6 +1,6 @@
 <h1>👋 Hi there, I'm M Sudeer.</h1>
 
-<h2>🚀Python Full Stack Development | 🛠️ Backend Development </h2>
+<h2>🚀Python Full Stack Development | 🛠️ Backend Development | 🎨 Frontend Development</h2>
 
 <p align="justify">Passionate Python Full Stack Developer focused on building web applications and learning modern technologies. I specialize in backend development with Python & Django and frontend design using HTML5, CSS3, Bootstrap, and JavaScript, supported by MySQL for database management.</p>
 <hr>
