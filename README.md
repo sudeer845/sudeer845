@@ -63,7 +63,7 @@ Key Features
 
 - 📱 Responsive Design – Works smoothly across desktop, tablet, and mobile devices.
 
-<p>Url of My Project : <url></url></p>
+<p>Url of My Project : <url>https://sudeer845.github.io/Note-App/</url></p>    <h1>And More......</h1>
 
 
 
