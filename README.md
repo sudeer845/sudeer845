@@ -32,7 +32,7 @@
 Description:  
 A freelance full-stack e‑commerce web application where users can browse products, add items to their cart, and place orders.
 
-Tech Stack: Django, HTML5, CSS3, Bootstrap, JavaScript, MySQL
+Tech Stack: Django, HTML5, CSS3, Bootstrap & JavaScript
 
 Key Features:
 
@@ -43,4 +43,28 @@ Key Features:
 🛒 Shopping cart functionality
 
 💳 Order placement and checkout system
+
+<p>Url of My Project : <url>https://msdairy45.onrender.com</url></p>
+
+<h1>📝 Note App</h1>
+Description:
+This project allows users to create, edit, and delete notes directly in the browser, with data persistence using localStorage.
+
+Tech Stack: HTML5, CSS3 & JavaScript
+
+Key Features
+- ➕ Add Notes – Quickly create new notes with a title and content.
+
+- ✏️ Edit Notes – Update existing notes seamlessly.
+  
+- 🗑️ Delete Notes – Remove notes you no longer need.
+  
+- 💾 Persistent Storage – Notes are saved in the browser using localStorage.
+
+- 📱 Responsive Design – Works smoothly across desktop, tablet, and mobile devices.
+
+<p>Url of My Project : <url></url></p>
+
+
+
 
